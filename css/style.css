@@ -311,6 +311,13 @@ button:focus,
     margin-bottom : 50px;
     }
 
+.header .profile-img img {
+    border-radius: 50%;
+    border: .6em solid #93c1db;
+    margin: 0px auto;
+    height: 400px;
+}
+
 .header .content-wrapper {
 
     }
